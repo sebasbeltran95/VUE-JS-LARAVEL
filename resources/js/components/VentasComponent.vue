@@ -1,0 +1,3 @@
+<template>
+    ventas vue
+</template>

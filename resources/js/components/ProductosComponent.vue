@@ -1,0 +1,3 @@
+<template>
+    prodoctos vue
+</template>
